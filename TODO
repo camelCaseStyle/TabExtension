@@ -1,0 +1,2 @@
+- Add optional permissions to allow for better user experience. At the moment, narrow host permissions are used. Poor UX. See here https://developer.chrome.com/docs/extensions/get-started/tutorial/popup-tabs-manager
+- 
